@@ -1,0 +1,21 @@
+div{
+    background-color: red;
+    height: 400px;
+    width: 400px;
+}
+
+div:hover{
+    background-color: yellow;
+    border-radius: 100%;
+}
+
+
+.img{
+    background: url(cafe2.jpeg) no-repeat center center/50%;
+    height: 300px;
+}
+
+.img:hover{
+    background: url(history.png) no-repeat center center/50% ;
+    height: 300px;
+}

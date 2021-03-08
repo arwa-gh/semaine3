@@ -1,0 +1,23 @@
+div{
+
+background-color: red;
+width: 150px;
+height: 150px;
+margin: 20px;
+margin-left: 50px;
+color: seashell;
+}
+
+.carré2{
+
+    margin-left: 200px;
+    background-color: salmon;
+    margin-bottom: 50px;
+}
+
+.carré1{
+    padding-left: 100px;
+    padding-top: 100px;
+    
+}
+

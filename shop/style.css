@@ -1,0 +1,35 @@
+
+
+
+h1{
+    color: white;
+    background-color: rgb(2, 136, 141);
+}
+
+h2{
+    text-decoration: underline;
+    text-decoration-color: #F7E4C0;
+    margin-left: 10px;
+}
+
+h3{
+    margin-left: 25px;
+}
+
+div{
+    background-color: #F7F4F4;
+    width: 2000px;
+    height: 100px;
+    margin:20px;
+    padding-left: 20px;
+    padding-top:10px ;
+}
+
+h4{
+    color: #D37C51;
+}
+
+a{
+    color: #248080;
+    font-weight: bold;
+}

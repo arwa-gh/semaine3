@@ -1,0 +1,37 @@
+header{
+    background-color: black;
+    background-size: cover;
+}
+
+#titre{
+    color: white;
+}
+
+header ul{
+    display: inline;
+    
+
+
+}
+
+ul{
+    color: white;
+}
+
+.first{
+    background-image: url(cafe2.jpeg);
+
+}
+
+.second{
+    background-color:white ;
+
+
+}
+
+.third{
+    background-image: url(service.jpeg);
+}
+
+
+
